@@ -1,0 +1,1 @@
+Este arquivo contem a atividade do modulo 6, consiste na criação do algoritmo acordar e na descrição de POO e PROCEDURAL

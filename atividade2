@@ -1,0 +1,42 @@
+Algoritimo de acordar
+
+1- Acordar,
+2- Abrir os olhos,
+3- Centar na cama,
+4- Calçar os chinelos,
+5- Tirar o pijama,
+6- Caminhar ate o banheiro,
+7- Se porta banheiro estiver aberta = entrar
+    senão{ 
+        colocar a mão na massaneta da porta e girar anti horario e entar
+    }
+8- Lavar o rosto,
+9- Pegar a tolha de rosto e secar o rosto,
+10- Ir ate a cozinha,
+11- Pegar xicara de cafe,
+12- Com a xicara na mão apertar a carrafa de cafe para encher a xicara de cafe,
+13- Verificar se tem pão em cima da mesa, Sim?
+    senão{
+        ir ate o armario e pegar o pão
+    }
+14- Verificar se tem margarina na mesa, Sim?
+    senão{
+        ir ate a geladeira 
+        abria geladeira e pegar a margarina
+    }
+15- Com tudo na mesa centar na cadeira e tomar cafe,
+16- Ao terminar de tomar cafe, 
+17- Ir ate o banheiro,
+18- Abrir a porta do banhero,
+19- Escovar os dentes,
+20- Pegar toalha de rosto e secar o rosto,
+21- Todos os passos acima feitos, 
+22- Ir para o trabalho,
+    se filhos{
+        ir ao carto dos filhos e esposa desejar um bom dia.
+    }
+23- Ir ao trabalho ............
+
+
+
+Continua.
